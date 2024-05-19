@@ -1,4 +1,4 @@
 
 
-for x in [105,95,-7]:
+for x in range(105,98,-7):
     print(x)
